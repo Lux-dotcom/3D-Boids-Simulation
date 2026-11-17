@@ -10,11 +10,11 @@ Craig Reynolds' Boids model.
 
 The project extends the classical flocking model with:
 
-• Multiple coexisting species
-• Predator-prey interactions
-• Fear-driven behavioural dynamics
-• Runtime parameter tuning via GUI
-• Behavioural metrics and flock polarization analysis
+- Multiple coexisting species
+- Predator-prey interactions
+- Fear-driven behavioural dynamics
+- Runtime parameter tuning via GUI
+- Behavioural metrics and flock polarization analysis
 
 Each boid computes its trajectory according to three local interaction rules:
 
